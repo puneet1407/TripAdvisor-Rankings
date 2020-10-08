@@ -1,6 +1,6 @@
 # How Can Hotels Predict and Improve Their Popularity Rankings on TripAdvisor?
 
-## Introduction
+# Introduction
 
 For my Capstone Project I chose to examine hotel popularity rankings on the travel site TripAdvisor and to build some data-driven recommendations on how hotels can improve their rankings.
 
